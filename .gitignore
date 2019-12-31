@@ -1,3 +1,4 @@
 pyAudioAnalysis/*
 dataset/*
 small_dataset/*
+process_wav/node_modules/*
